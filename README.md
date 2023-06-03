@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C++, Python and Front-End Technologies**
 
-- 📫 How to reach me  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVLhLtLwKzLVmzTRnzXbkbLZDsRFtlxtXcfFkWvbWMZzCKBdZmrrMPHftBFJBPsbdvkdL) 
+- 📫 How to reach me  **ankit.k.meena2301@gmail.com** 
 
 
 
@@ -29,6 +29,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ankittmeena&icon=8&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
