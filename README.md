@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Structures, Web Development**
+- 🌱 I’m currently learning **Data Structures and Web Development**
 
 - 💬 Ask me about **C++, Python and Front-End Technologies**
 
