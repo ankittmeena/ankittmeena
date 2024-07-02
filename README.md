@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Data Structures & Algorithms and Web Development**
+- 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **C++, Python and Front-End Technologies**
+- 💬 Ask me about **C++, Java, Python, Front-End Technologies and Android Development**
 
 - 📫 How to reach me  **ankit.k.meena2301@gmail.com** 
 
